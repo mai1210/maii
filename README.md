@@ -49,5 +49,3 @@
 <img
 </body>  
 </html>
-
-profile-huynh.html
