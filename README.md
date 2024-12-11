@@ -6,7 +6,7 @@
 </body>  
 <body>  
     <div>  
-        <h1>Cac thanh vien nhom 2 </h1>
+        <h1 style="color:#FFFF00;">Cac thanh vien nhom 2 </h1>
     </div>
 <table border="1" cellspacing="0">
 <caption>Danh sách thành viên</caption> 
