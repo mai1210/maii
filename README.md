@@ -4,10 +4,12 @@
     <p></p>Logan của chúng tớ là:</p>
    <h1> <div class="logan"><strong>Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó.</strong></div> </h1>
 </body>  
-<body>  
+<body>
+    <style></style>
     <div>  
-        <h1 style="color:#FFFF00;">Cac thanh vien nhom 2 </h1>
+        <h1 <"color:#FFFF00;">Cac thanh vien nhom 2 </h1>
     </div>
+    </style>
 <table border="1" cellspacing="0">
 <caption>Danh sách thành viên</caption> 
   <tr>
